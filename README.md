@@ -26,6 +26,7 @@
 1. Start the server by running `server.cpp`.
 2. Connect clients by running `client.cpp`.
 3. Begin chatting!
+4. You have to create 2 or more client in order to talk with each other
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
