@@ -1,7 +1,7 @@
-For your GitHub README, let’s cover a few essentials:
-
 ### Project Name and Description
+
 **Title:** Real-Time Chat Application in C++  
+
 **Description:** A C++ chat application using Socket.IO for real-time communication. This project demonstrates basic network communication principles with C++ Winsock, providing a foundation for peer-to-peer or client-server chat systems. It supports multiple clients connecting to a server, sending and receiving messages in real time.
 
 ### Features
